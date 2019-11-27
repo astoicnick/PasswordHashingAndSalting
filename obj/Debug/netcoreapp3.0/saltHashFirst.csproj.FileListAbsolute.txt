@@ -1,0 +1,11 @@
+C:\Users\niperry\source\repos\saltHashFirst\bin\Debug\netcoreapp3.0\saltHashFirst.exe
+C:\Users\niperry\source\repos\saltHashFirst\bin\Debug\netcoreapp3.0\saltHashFirst.deps.json
+C:\Users\niperry\source\repos\saltHashFirst\bin\Debug\netcoreapp3.0\saltHashFirst.runtimeconfig.json
+C:\Users\niperry\source\repos\saltHashFirst\bin\Debug\netcoreapp3.0\saltHashFirst.runtimeconfig.dev.json
+C:\Users\niperry\source\repos\saltHashFirst\bin\Debug\netcoreapp3.0\saltHashFirst.dll
+C:\Users\niperry\source\repos\saltHashFirst\bin\Debug\netcoreapp3.0\saltHashFirst.pdb
+C:\Users\niperry\source\repos\saltHashFirst\obj\Debug\netcoreapp3.0\saltHashFirst.csprojAssemblyReference.cache
+C:\Users\niperry\source\repos\saltHashFirst\obj\Debug\netcoreapp3.0\saltHashFirst.AssemblyInfoInputs.cache
+C:\Users\niperry\source\repos\saltHashFirst\obj\Debug\netcoreapp3.0\saltHashFirst.AssemblyInfo.cs
+C:\Users\niperry\source\repos\saltHashFirst\obj\Debug\netcoreapp3.0\saltHashFirst.dll
+C:\Users\niperry\source\repos\saltHashFirst\obj\Debug\netcoreapp3.0\saltHashFirst.pdb
